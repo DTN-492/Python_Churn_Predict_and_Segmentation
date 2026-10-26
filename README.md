@@ -111,7 +111,8 @@ all_mod = {"Random Forest"  : RandomForestClassifier(random_state = 10, class_we
 <img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/6e5d0696-304e-4437-9f10-49f9a2cb5e29" />
 
 - Since K-means model sensitive to outliers, scaling is an important preprocessing step, and here is the WCSS chart after fitting the K-means model on the scaled PCA dataset:
-<img width="1055" height="580" alt="image" src="https://github.com/user-attachments/assets/d81303b2-1cf7-4483-bca6-a15dcb19f4f9" />
+<img width="860" height="469" alt="image" src="https://github.com/user-attachments/assets/d0837994-b45f-4b9f-8cea-27211c96ad7f" />
+<img width="851" height="469" alt="image" src="https://github.com/user-attachments/assets/d7c0d527-602e-4e85-978c-1dd3f42f6377" />
 
 -> There is no optimal value for k, so segmentation churned customers is not necessary.
 
