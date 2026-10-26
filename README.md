@@ -113,4 +113,10 @@ all_mod = {"Random Forest"  : RandomForestClassifier(random_state = 10, class_we
 - Since K-means model sensitive to outliers, scaling is an important preprocessing step, and here is the WCSS chart after fitting the K-means model on the scaled PCA dataset:
 <img width="1055" height="580" alt="image" src="https://github.com/user-attachments/assets/d81303b2-1cf7-4483-bca6-a15dcb19f4f9" />
 
--> There is no optimal value for k, so segmentation churned customers is not necessary
+-> There is no optimal value for k, so segmentation churned customers is not necessary.
+
+# VII. Conclusion
+- Machine learning is valuable for a range of tasks, including prediction, customer segmentation, and identifying important features.
+- XGBoost is a powerful model for tabular data, but effective data cleaning and feature engineering are essential for strong performance.
+- SHAP values help address the opacity of black-box models by making their predictions more interpretable.
+- Customer segmentation is not always necessary: churned customers may share similar behaviors, making them easier to identify.
