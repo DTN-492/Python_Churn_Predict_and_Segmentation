@@ -1,5 +1,18 @@
 # [Machine Learning] Churn Prediction & Segmentation
+# Table of contents
+[**I. Introduction**](#i-introduction)
 
+[**II. Dataset**](#ii-dataset)
+
+[**III. Exploring the dataset**](#iii-exploring-the-dataset)
+
+[**IV. Visualization**](#iv-visualization)
+
+[**V. Building prediction model**](#v-building-prediction-model)
+
+[**VI. Segmentation**](#vi-segmentation)
+
+[**VII. Conclusion**](#vii-conclusion)
 # I. Introduction
 This project uses two machine learning approaches for different purposes: 
 - Supervised learning to predict which customers are likely to churn
